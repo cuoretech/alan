@@ -28,7 +28,7 @@ Cuore ALAN is made available by [Cuore Technology](http://cuore.io) and a team o
 *   UI Designer: [Tanner Jourdian](https://github.com/)
 *   Fullstack Developer: [Kevin Aloysius](https://github.com/kevinaloys)
 *   Backend Developer: [Bryan Clark](https://github.com/BryanDClark)
-*   Backend Developer: [Travis Heatwole](https://github.com/)
+*   Backend Developer: [Travis Heatwole](https://github.com/heatwole)
 *   Backend Developer: [Ashay Thool](https://github.com/)
 
 
